@@ -55,4 +55,6 @@ Install Dependencies:
 Bash
 pip install -r handson-ml3/requirements.txt
 ✍️ About Me
-Thonia Cardoso Data & AI Professional 📍 São Paulo, Brazil
+Thonia Senna 
+
+Data & AI Professional 📍 São Paulo, Brazil
