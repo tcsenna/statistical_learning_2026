@@ -39,21 +39,26 @@ To ensure reproducibility and environment isolation, I use a dedicated Python Vi
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/tcsenna/statistical_learning_2026.git](https://github.com/tcsenna/statistical_learning_2026.git)
-   cd statistical_learning_2026```
+   cd statistical_learning_2026
+   ```
 
 
 2. **Create and Activate Virtual Environment:**
 
-Bash
+```bash
 python -m venv venv
 # Windows (PowerShell):
 .\venv\Scripts\Activate.ps1
 # Git Bash / Linux:
 source venv/Scripts/activate
-Install Dependencies:
+```
 
-Bash
+3. **Install Dependencies:**
+
+```bash
 pip install -r handson-ml3/requirements.txt
+```
+
 ✍️ About Me
 Thonia Senna 
 
