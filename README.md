@@ -59,7 +59,10 @@ source venv/Scripts/activate
 pip install -r handson-ml3/requirements.txt
 ```
 
-✍️ About Me
-Thonia Senna 
+✍️ About Me:  
 
-Data & AI Professional 📍 São Paulo, Brazil
+**Thonia Senna** 
+
+Data & AI Professional   
+
+📍 São Paulo, Brazil
