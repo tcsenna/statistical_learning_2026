@@ -3,7 +3,7 @@
 *.ckpt
 *.old
 *.pyc
-.DS_Store
+.DS_Storecd ha
 .ipynb_checkpoints/
 .vscode/
 checkpoint

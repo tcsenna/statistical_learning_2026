@@ -1,8 +1,7 @@
-Machine Learning Notebooks, 3rd edition
+Data Science & Machine Learning Journey | 2026
 =================================
 
-This project aims at teaching you the fundamentals of Machine Learning in
-python. It contains the example code and solutions to the exercises in the third edition of my O'Reilly book [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow (3rd edition)](https://homl.info/er3):
+Welcome to my learning journey! This repository documents my technical evolution in Data Science, Machine Learning, and Statistical Learning. It contains hands-on projects, theoretical notes, and experiments with state-of-the-art models.
 
 <a href="https://homl.info/er3"><img src="https://learning.oreilly.com/library/cover/9781098125967/300w/" title="book" width="150" border="0" /></a>
 
